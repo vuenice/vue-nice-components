@@ -1,0 +1,24 @@
+{
+  "name": "vue-nice-components",
+  "version": "1.0.0",
+  "description": "Documentation app showcasing all VueNice components built with VitePress",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuenice/vue-nice-components.git"
+  },
+  "keywords": [
+    "vue",
+    "components",
+    "documentation",
+    "vuenice",
+    "vitepress"
+  ],
+  "author": "vuenice",
+  "license": "MIT"
+}
